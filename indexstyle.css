@@ -1,0 +1,32 @@
+.test {
+    font: 50px segoe UI;
+    margin-top: 40px;
+}
+
+.naf {
+    font: 25px segoe UI; 
+    color: #0000EE; text-decoration: underline; 
+    cursor: pointer; margin-right: 20px;
+}
+.list{
+    margin-top: 80px;
+}
+
+.info{
+
+    font: 25px segoe UI; 
+    color: #0000EE; text-decoration: underline; 
+                cursor: pointer;
+            }
+.schpl{
+    float:right; margin-top: 100px;
+}
+
+.uniek{
+    float:right; margin-right: 60px;
+
+}
+
+.school{
+    font-weight:bold; font-size: 30px;
+}
